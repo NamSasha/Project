@@ -1,0 +1,8 @@
+Hi, This is Sasha. Greetings :3 ^^.
+1.Install python:(Skip this if you've installed before)
+https://www.python.org/downloads/
+
+2.Install Tesseract OCR:(Just click next, don't change file path)
+#Install without changing directory
+
+3. Run file EboxyThicknessDX.py with python. Choose folder which contains those picture. The result with be extract direct to the image folder.

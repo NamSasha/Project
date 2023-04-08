@@ -1,0 +1,13 @@
+1.install python
+2.open cmd, copy all the line below
+
+py -m pip install datetime
+py -m pip install pyautogui
+py -m pip install tqdm
+py -m pip install xlwings
+py -m pip install pywinauto
+Hello,Sasha.^^
+
+3.Done
+Start Auto Download first
+Choose in order to PC1,PC3,summary 
